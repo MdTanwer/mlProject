@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+C:\Users\tanw9\Desktop\mlProject\.vscode\notes
 # Distribution / packaging
 .Python
 build/
